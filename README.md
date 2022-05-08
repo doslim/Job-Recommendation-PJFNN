@@ -24,7 +24,7 @@ To run our codes, you should first download the datasets from [Kaggle](https://w
 We conduct our experiments on a subset of the original dataset, where we set the ```WindowID=6```. Since the data only have the application records (positive samples), we carry out randomly negative sampling to build a dataset such that the ratio of postive and negative samples are 1:1. More details can be found in the build\_dataset.ipynb.
 
 We consider the following two tasks:
-- Person-Job fit: the inputs are in the forms like ```(job, person)```, and the outputs are binary labels indicating that whether the people are suitable for the jobs.
+- Person-Job Fit: the inputs are in the forms like ```(job, person)```, and the outputs are binary labels indicating that whether the people are suitable for the jobs.
 - Job Recommendation: the models are required to rank 20 randomly selected jobs for the given person.
 
 We use classic metrics for binary classification in the person-job fit task and hit rate in the recommendation task.
