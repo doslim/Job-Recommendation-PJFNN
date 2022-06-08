@@ -1,4 +1,7 @@
 # Job Recommendation PJFN
+
+![](https://visitor-badge.glitch.me/badge?page_id=Doslim.Job-Recommendation-PJFNN)
+
  This repository contains several baseline models and PJFNN (Person-Job Fit Neural Network from the paper: [Person-Job Fit: Adapting the Right Talent for the Right Job with Joint Representation Learning](https://dl.acm.org/doi/abs/10.1145/3234465)) on the datasets from [Job Recommendation Challenge](https://www.kaggle.com/c/job-recommendation).
 
 
