@@ -2,7 +2,7 @@
 
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Doslim.Job-Recommendation-PJFNN&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Doslim.Job-Recommendation-PJFNN"  />
 </div>
 
  This repository contains several baseline models and PJFNN (Person-Job Fit Neural Network from the paper: [Person-Job Fit: Adapting the Right Talent for the Right Job with Joint Representation Learning](https://dl.acm.org/doi/abs/10.1145/3234465)) on the datasets from [Job Recommendation Challenge](https://www.kaggle.com/c/job-recommendation).
